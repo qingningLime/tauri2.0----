@@ -23,7 +23,7 @@
 
 1. 克隆仓库：
    ```powershell
-   git clone管的 [仓库地址]
+   git clone管的 [[仓库地址](https://github.com/qingningLime/tauri2.0----.git)]
    ```
 
 2. 安装依赖：
